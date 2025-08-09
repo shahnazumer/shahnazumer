@@ -19,7 +19,7 @@ Hi, I’m **Shahnaz** 👋 — a self-taught **AI Application Developer** passio
 
 ---
 
-> 🌱 Currently leveling up my **LangGraph & Deep Learning** skills to build next-gen AI agents.  
+> 🌱 Currently leveling up my **Deep Learning** skills to build next-gen AI agents.  
 > 💬 Always open to collaborating on **AI-powered tools & automation projects**.  
 
 📫 **Let’s Connect:**  
