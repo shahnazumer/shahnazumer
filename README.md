@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**shahnazumer/shahnazumer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 AI Application Developer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Hi, I’m **Shahnaz** 👋 — a self-taught **AI Application Developer** passionate about creating **intelligent systems** that solve real-world problems.  
+
+💡 I specialize in:  
+- 🤖 **Multi-Agent AI Systems** for dynamic, context-aware decision-making  
+- 📚 **RAG-based Chatbots** for precise and knowledge-grounded responses  
+- ⚡ **Automation Tools** that boost productivity and efficiency  
+
+**Tech Stack:**  
+`Python` • `LangChain` • `LangGraph` • `Streamlit` • `OpenAI` • `Groq` • `Hugging Face` • `PostgreSQL` • `AWS`  
+
+---
+
+> 🌱 Currently leveling up my **LangGraph & Deep Learning** skills to build next-gen AI agents.  
+> 💬 Always open to collaborating on **AI-powered tools & automation projects**.  
+
+📫 **Let’s Connect:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:YOUR_EMAIL)
+
